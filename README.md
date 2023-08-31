@@ -1,6 +1,6 @@
 # Next.js Blog
 
-![Demo](https://blog-alpha-beige.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/demo-live-blue.svg)](https://blog-alpha-beige.vercel.app/)
 
 ## Description
 
